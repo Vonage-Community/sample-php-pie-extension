@@ -1,4 +1,4 @@
-# Sample PHP Extension for Installing withe PIE
+# Sample PHP Extension for Installing with PIE
 
 ### Usage
 
