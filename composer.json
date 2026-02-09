@@ -1,0 +1,18 @@
+{
+    "name": "jimseconde/nativedd",
+    "description": "A Native dd() helper for core PHP to be installed with PIE",
+    "authors": [
+        {
+            "name": "jimseconde",
+            "email": "jim.seconde@googlemail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.3"
+    },
+    "type": "php-ext",
+    "php-ext": {
+        "extension-name": "native_dd"
+    },
+    "license": "MIT"
+}
